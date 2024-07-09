@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Redmart](https://vipul-redmart.vercel.app)
 
-- 🌱 I’m currently learning **Next.js, Data Structue and Algorithms**
+- 🌱 I’m currently learning **Next.js, Data Structure and Algorithms**
 
 - 💬 Ask me about **React.js, JavaScript, Next.js**
 
